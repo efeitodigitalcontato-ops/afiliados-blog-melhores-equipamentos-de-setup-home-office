@@ -1,0 +1,31 @@
+{
+  "theme": "melhores equipamentos de setup home office",
+  "categories": [
+    {
+      "value": "melhores-equipamentos-de-setup-home-office",
+      "label": "Melhores equipamentos de setup home office"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Melhores equipamentos de setup home office"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-melhores-equipamentos-de-setup-home-office-1.jpg",
+      "label": "Melhores equipamentos de setup home office Premium"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-setup-home-office-2.jpg",
+      "label": "Melhores equipamentos de setup home office Custo-Benefício"
+    },
+    {
+      "value": "/recommended-melhores-equipamentos-de-setup-home-office-3.jpg",
+      "label": "Melhores Melhores equipamentos de setup home office"
+    }
+  ]
+}
