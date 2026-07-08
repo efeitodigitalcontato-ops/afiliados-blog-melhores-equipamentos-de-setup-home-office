@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Mobiliário e Ergonomia para Setup",
+      "slug": "mobiliario-ergonomia-setup",
+      "description": "Análises aprofundadas e recomendações dos melhores equipamentos de mobiliário ergonômico para home office. Descubra como escolher cadeiras, mesas reguláveis e suportes que garantem postura correta, conforto e alta produtividade durante longas jornadas de trabalho remoto.",
+      "subcategories": [
+        {
+          "name": "Cadeiras Ergonômicas para Home Office",
+          "slug": "cadeiras-ergonomicas-home-office",
+          "description": "Guia de compra das melhores cadeiras ergonômicas do mercado para home office. Avaliações focadas em ajustes de braço, suporte lombar, mecanismos de inclinação e materiais que previnem dores nas costas.",
+          "articles": []
+        },
+        {
+          "name": "Mesas com Ajuste de Altura",
+          "slug": "mesas-ajuste-altura-standing-desks",
+          "description": "Comparativos e reviews das melhores mesas digitalizadoras e escrivaninhas com regulagem de altura (standing desks) para alternar entre trabalhar sentado e em pé, otimizando a saúde e o foco.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Periféricos e Hardware de Produtividade",
+      "slug": "perifericos-hardware-produtividade",
+      "description": "Reviews técnicos e comparativos dos melhores periféricos de alta performance para o seu setup de home office. Encontre mouses, teclados e monitores projetados para acelerar seu fluxo de trabalho e reduzir a fadiga física.",
+      "subcategories": [
+        {
+          "name": "Monitores e Braços Articulados",
+          "slug": "monitores-bracos-articulados",
+          "description": "Análises dos melhores monitores ultrawide, 4K e suportes articulados para otimizar o espaço da sua mesa e melhorar a ergonomia visual no trabalho remoto.",
+          "articles": []
+        },
+        {
+          "name": "Teclados e Mouses Ergonômicos",
+          "slug": "teclados-mouses-ergonomicos",
+          "description": "Guia completo sobre mouses verticais, trackballs e teclados mecânicos ou de membrana focados em ergonomia e digitação silenciosa para o ambiente doméstico.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Guias de Equipamentos e Planejamento de Setup",
+      "slug": "guias-equipamentos-planejamento-setup",
+      "description": "Diretrizes completas, listas de verificação e guias de compra definitivos para planejar, orçar e montar o setup de home office ideal do zero, alinhando custo-benefício, espaço e necessidades profissionais.",
+      "subcategories": [
+        {
+          "name": "Equipamentos Essenciais para Iniciantes",
+          "slug": "equipamentos-essenciais-iniciantes",
+          "description": "Seleção dos equipamentos fundamentais e de melhor custo-benefício para quem está estruturando o primeiro escritório em casa e precisa de máxima eficiência sem desperdício de orçamento.",
+          "articles": [
+            {
+              "title": "Guia Completo sobre Melhores Equipamentos de Setup Home Office: Como Escolher o Melhor para Você",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Equipamentos de Áudio e Vídeo para Reuniões",
+          "slug": "equipamentos-audio-video-reunioes",
+          "description": "Recomendações das melhores webcams, microfones dedicados, headsets com cancelamento de ruído e ring lights para garantir chamadas de vídeo profissionais e sem interferências.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
